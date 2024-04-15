@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-15T13:11:07 IST" name="Default suite" finished-at="2024-04-15T13:11:17 IST" duration-ms="9865">
+    <groups>
+    </groups>
+    <test started-at="2024-04-15T13:11:07 IST" name="Default test" finished-at="2024-04-15T13:11:17 IST" duration-ms="9865">
+      <class name="DEmoTest.Pjct2Test">
+        <test-method signature="m2Test()[pri:0, instance:DEmoTest.Pjct2Test@485966cc]" started-at="2024-04-15T13:11:07 IST" name="m2Test" finished-at="2024-04-15T13:11:16 IST" duration-ms="9789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2Test -->
+      </class> <!-- DEmoTest.Pjct2Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
