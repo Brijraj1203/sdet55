@@ -11,5 +11,6 @@ public class Pjct1Test extends BaseClass{
 	{
 		System.out.println("amazon application is opened");
 		//Thank you
+		//completed
 	}
 }
